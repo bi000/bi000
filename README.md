@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bi000
-- 👀 I’m interested in flutter and website developer
-- 🌱 I’m currently learning ...flutter and website
-- 💞️ I’m looking to collaborate on ...those who is interested with that
-- 📫 How to reach me ... with Facebook 
+- 👀 I’m interested in flutter
+ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
